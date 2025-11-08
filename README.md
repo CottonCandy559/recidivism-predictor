@@ -1,3 +1,5 @@
 # recidivism-predictor
 ### About the Project
 With the U.S. housing the largest incarcerated population globally, it has become important to develop intervention methods to address growing crime rates. One target of interest is  recidivism, the tendency of prisoners to return to crime. Being able to identify prisoners that are likely to return to crime may help correctional facilities better support high-risk individuals. In this project, Decision Tree and Random Forest models are trained on a subset of Georgia prisoner dataset with 10 features (e.g. age at employment, drug use, prior arrest episodes, etc.) and 25,000+ records to classify whether or not a prisoner will recidivate.
+
+Read more [here](https://www.jsr.org/hs/index.php/path/article/view/5779/2671).
